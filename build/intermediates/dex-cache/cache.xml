@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/mnt/01CF446D955ABEB0/AndroidStudioProjects/HideCall/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="15ffb9de5f1da4e4b03b60b06e1036418dfb20a4">
+        <dex dex="/mnt/01CF446D955ABEB0/AndroidStudioProjects/HideCall/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ff63efb117fdfe6fd89998bc8138dca59e81ecdf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/mnt/01CF446D955ABEB0/AndroidStudioProjects/HideCall/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/mnt/01CF446D955ABEB0/AndroidStudioProjects/HideCall/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c9df5076471175b1b69df6e3d70a50aa636e5bd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/mnt/01CF446D955ABEB0/AndroidStudioProjects/HideCall/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/mnt/01CF446D955ABEB0/AndroidStudioProjects/HideCall/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c9df5076471175b1b69df6e3d70a50aa636e5bd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/mnt/01CF446D955ABEB0/AndroidStudioProjects/HideCall/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bab63628eec019b78ac28fd9701b12124946b37f">
+        <dex dex="/mnt/01CF446D955ABEB0/AndroidStudioProjects/HideCall/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ff63efb117fdfe6fd89998bc8138dca59e81ecdf/classes.dex" />
+    </item>
+
+</items>
